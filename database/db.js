@@ -1,14 +1,4 @@
-// import mongoose from 'mongoose';
 
-// const Connection = async () => {
-//     try{
-//         await mongoose.connect('mongodb+srv://raja:lifeis@cluster0.edzsdqq.mongodb.net/?retryWrites=true&w=majority');
-//         console.log('Db connection established.')
-//     }catch(error){
-//         console.log('DB Error: ', error);
-//     }
-// }
-// export default Connection;
 
 
 import mongoose from 'mongoose';
